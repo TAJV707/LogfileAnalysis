@@ -48,10 +48,6 @@
 ## Notes
 * We only moved our stuff over to GitHub on May 1st, 2022. Before that we were working cooperatively through Replit as well as emailing each other the files. This is why the dates from out spreadsheet won't quite line up with our GitHub history.
 
-## Links
-* [Link](https://github.umn.edu/CAMPO193/5801_Project) to GitHub
-* [Link](https://docs.google.com/document/d/1mGGj07xDXUYiWShWYW2IL2uoEgvy9JhPvR1iZZJoeZ8/edit?usp=sharing) to Meeting Notes
-* [Link](https://docs.google.com/spreadsheets/d/13IqLcMqil39yemQDCYi6JK_co_a3q5S9CeMhal2grSY/edit?usp=sharing) to Backlogs and Meeting Minutes
 
 </br>
 
